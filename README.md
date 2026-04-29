@@ -8,3 +8,6 @@ La construction nécessite des pièces imprimées en 3D et un circuit imprimé s
 Tous les fichiers sont disponibles ici pour que vous puissiez la faire vous-même. 
 Si vous n’avez pas le matériel nous vous proposons de vous envoyer un kit contenant tous les éléments nécessaire à son assemblage pour la monter ou de vous l’envoyer prête à l’usage.
 Si vous trouvez des pistes d'améliorations je reste ouvert à toute requet : Trafikandars.workshop@gmail.com
+
+Conception 3D : Adem Koanda_Saurel
+Code : Côme Douville
